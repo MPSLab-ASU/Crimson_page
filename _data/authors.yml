@@ -1,21 +1,16 @@
-- name: Vinayak Sharma
-  github: vinayak19th
-  linkedin: vinayak19th
-  email: vsharm87@asu.edu
-  position: MS in CS
-  organization: Arizona State University
-  sub_organization: School of Computing and Augmented Intelligence
-  website: vinayak19th.github.io
-  primary: true
+- name: Mahesh Balasubramanian
+  linkedin: maheshbalasubramanian23
+  email: mbalasubramanian@asu.edu
+  position: Member
+  organization: IEEE
+  website: https://sites.google.com/asu.edu/maheshbala
+  google_scholar: https://scholar.google.com/citations?user=V82CMP4AAAAJ&hl=en
 
-- name: Shail Dave
-  position: PhD 
-  github: shail-dave
-  email: Shail.Dave@asu.edu 
-  linkedin: daveshail
-  organization: Arizona State University
-  sub_organization: School of Computing and Augmented Intelligence
-  google_scholar: https://scholar.google.com/citations?hl=en&user=SVft2R0AAAAJ&view_op=list_works
-  website: https://sites.google.com/view/shail/
-
-  
+- name: Aviral Shrivastava
+  linkedin: aviral
+  email: Aviral.Shrivastava@asu.edu
+  position: Member
+  organization: IEEE
+  github: aviralshri
+  website: https://labs.engineering.asu.edu/mps-lab/person/aviral-shrivastava/
+  google_scholar: https://scholar.google.com/citations?user=zlzK-v0AAAAJ&hl=en
