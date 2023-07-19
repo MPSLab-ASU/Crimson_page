@@ -1,6 +1,6 @@
 ######################## Paper Information ########################################
 # Personal info
-paper_name: CRIMSON: Compute-intensive loop acceleration by Randomized Iterative Modulo Scheduling and Optimized Mapping on CGRAs
+paper_name: "CRIMSON: Compute-intensive loop acceleration by Randomized Iterative Modulo Scheduling and Optimized Mapping on CGRAs"
 
 organization: IEEE
 # sub_organization: School of Computing and Augmented Intelligence 
@@ -12,7 +12,7 @@ paper_pdf: https://mpslab-asu.github.io/publications/papers/Balasubramanian2020T
 # supplementary_pdf: Supplementary PDF here
 # code: https://github.com/MPSLab-ASU/Project_Page_Template
 # arXiv : https://arxiv.org/abs/1512.01274
-IEEE: https://ieeexplore.ieee.org/document/9187262
+IEEE : https://ieeexplore.ieee.org/document/9187262
 # Additional icon links
 
 # favicon: assets/images/MPS_Lab.ico
