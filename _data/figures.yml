@@ -1,0 +1,5 @@
+- filename: Fig2.png
+  caption:  (a) DFG of an application loop. (b) a 1x2 CGRA target architecture. (c) An IMS schedule of nodes of DFG. The X-axis is the modulo time. (d) A mapping of the scheduled nodes on the time-extended CGRA (TEC).
+
+- filename: Fig3.png
+  caption:  (a) DFG of an application loop. (b) a 2x2 CGRA target architecture. (c) Column 1 shows the nodes in the DFG and Column 2 shows an IMS schedule for the nodes at II=MII=3. (d) The mapping algorithm tries to the map the nodes scheduled, but fails due to additional routing nodes “r” required to route nodes f and i. Failure to find a valid mapping, the II is increased to 4 and IMS is called again to schedule the nodes based on the workflow given in Fig 4. (e) IMS schedule for an increased II (II=4). (f) Even at an increased II, the mapping algorithm cannot find a valid mapping due to resource constraint at Ti+1 which is not resolved at II=4 and will not be resolved on any further increase in II.
