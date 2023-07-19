@@ -1,25 +1,25 @@
 ######################## Paper Information ########################################
 # Personal info
-paper_name: MPS-LAB Paper Page Template
+paper_name: CRIMSON: Compute-intensive loop acceleration by Randomized Iterative Modulo Scheduling and Optimized Mapping on CGRAs
 
-organization: Arizona State University 
-sub_organization: School of Computing and Augmented Intelligence 
+organization: IEEE
+# sub_organization: School of Computing and Augmented Intelligence 
 
 
 ######################## Paper Resources ########################################
 
-paper_pdf: https://dl.acm.org/doi/pdf/10.1145/3358198
+paper_pdf: https://mpslab-asu.github.io/publications/papers/Balasubramanian2020TCAD.pdf
 # supplementary_pdf: Supplementary PDF here
-code: https://github.com/MPSLab-ASU/Project_Page_Template
-arXiv : https://arxiv.org/abs/1512.01274
+# code: https://github.com/MPSLab-ASU/Project_Page_Template
+# arXiv : https://arxiv.org/abs/1512.01274
 IEEE: https://ieeexplore.ieee.org/document/9187262
 # Additional icon links
 
-favicon: assets/images/MPS_Lab.ico
+# favicon: assets/images/MPS_Lab.ico
 
 main_media:
-  source: https://labs.engineering.asu.edu/mps-lab/wp-content/uploads/sites/8/2019/12/dataflow-accelerators-768x251.png
-  caption: Executing applications on dataflow accelerators require explicit management of computational, communication, and memory resource
+  source: assets/images/figure1.png
+  caption: A typical CGRA architecture consisting of 4x4 PEs connected in a 2D mesh. Every cycle, each PE gets an instruction from the Instruction Memory, and can operate on the outputs of neighboring PEs and/or the Data Memory
 
 
 
