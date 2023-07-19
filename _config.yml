@@ -18,7 +18,7 @@ IEEE: https://ieeexplore.ieee.org/document/9187262
 # favicon: assets/images/MPS_Lab.ico
 
 main_media:
-  source: assets/images/figure1.png
+  source: assets/images/Fig1.png
   caption: A typical CGRA architecture consisting of 4x4 PEs connected in a 2D mesh. Every cycle, each PE gets an instruction from the Instruction Memory, and can operate on the outputs of neighboring PEs and/or the Data Memory
 
 
